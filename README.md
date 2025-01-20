@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me 👋
+
+Let's git it 
 
 <!--
 **BioDevInProgress/BioDevInProgress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
