@@ -1,6 +1,6 @@
-## About me 👋
+## Hello!
 
-Let's git it 
+Welcome to my GitHub! Tracking the progress for my bioinformtics journey. 
 
 <!--
 **BioDevInProgress/BioDevInProgress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
